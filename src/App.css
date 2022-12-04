@@ -29,3 +29,9 @@
 .small {
   font-size: 0.75rem;
 }
+
+.image-logo {
+  width: 100px;
+  padding-right: 10px;
+  cursor: pointer;
+}
