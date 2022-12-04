@@ -1,6 +1,5 @@
 import './App.css';
 import React from 'react';
-import { createRoot } from 'react-dom/client';
 import { Stage, Layer, Image } from 'react-konva';
 import useImage from 'use-image';
 import { jsPDF } from "jspdf";
